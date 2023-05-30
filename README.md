@@ -200,9 +200,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-![]()
-
-![]()
+![](https://github.com/KATHIR1611/EXP-6-MAD/blob/main/nm%201.png)
 
 
 
