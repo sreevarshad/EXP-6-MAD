@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-![](https://github.com/KATHIR1611/EXP-6-MAD/blob/main/nm%201.png)
+![](https://github.com/sreevarshad/EXP-6-MAD/blob/main/mmm%206.png)![](https://github.com/KATHIR1611/EXP-6-MAD/blob/main/nm%201.png)
 
 
 
